@@ -14,22 +14,30 @@ In order to start Jarvis just clone [this repository](https://github.com/sukeesh
 
 Run **Jarvis** from anywhere by command `jarvis`
 
-###For Mac OS X
+### For Mac OS X
+
  run `source setup.sh`
 
-###For Windows
+### For Windows
+
  run `setup.bat`
 
-###For Linux
+### For Linux
+
  After cloning the repository.....
     install the virtual environment by the command:
-       `[sudo] apt install virtualenv` or `[sudo] pip3 install virtualenv`
+         `[sudo] apt install virtualenv` or `[sudo] pip3 install virtualenv`.
+
     Then change your directory to Jarvis/installer by the command:  
-       `cd Jarvis/installer`
+         `cd Jarvis/installer`.
+
     Then run the following command:
-       `python3 unix_windows.py; python3 __main__.py;`
-    Then some prompts may come asking about methords to install which you may do as your wish!!! :D
-    But for the second prompt I may recommend option `1` above the rest two!! 
+       `python3 unix_windows.py; python3 __main__.py;`.
+
+    Then some prompts may come asking about methords to install which you may do as your wish!!! :D.
+
+    But for the second prompt I may recommend option `1` above the rest two!!. 
+
 You can start by typing `help` within the Jarvis command line to check what Jarvis can do for you.
 
 
